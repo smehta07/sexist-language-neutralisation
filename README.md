@@ -17,4 +17,4 @@ The repository is structured as follows:
 References: 
 1. Reid Pryzant, Richard Diehl Martinez, Nathan Dass, Sadao Kurohashi, Dan Jurafsky, and Diyi Yang. 2020. Automatically neutralizing subjective bias in text. In AAAI. https://arxiv.org/pdf/1911.09709.pdf
 2. Mattia Samory, Indira Sen, Julian Kohne, Fabian Flöck, and Claudia Wagner. 2021. "call me sexist, but..." : Revisiting sexism detection using psychological scales and adversarial samples. In ICWSM. https://arxiv.org/pdf/2004.12764v2.pdf
-3. Dylan Grosz and Patricia Conde-Cespedes. 2020. Automatic detection of sexist statements commonly used at the workplace. In Pacific-Asia Conference on Knowledge Discovery and Data Mining, pages 104– 115. Springer. https://arxiv.org/abs/2007.04181
+3. Dylan Grosz and Patricia Conde-Cespedes. 2020. Automatic detection of sexist statements commonly used at the workplace. In Pacific-Asia Conference on Knowledge Discovery and Data Mining, pages 104– 115. Springer. https://arxiv.org/abs/2007.04181 
