@@ -4,7 +4,7 @@ This project is about using machine learning to automatically neutralise sexist 
 
 The repository is structured as follows:
 - The current directory contains two python notebooks that can be run using Google Colab. The "NLP_Model" notebook contains the code to pre-process the data, fine tune the model, run inference and evaluate our models. The "Demo" notebook is a shorter version of the other notebook which can be used to demonstrate our code. Please reach out if you would like to run the demo code as model checkpoints can be provided. 
-- The neutralizing-bias folder contains the code for the pre-trained model created by Pryzant et. al (2019). The paper for this code can be found here: https://arxiv.org/pdf/1911.09709.pdf. This repository was used to fine tune and run inference on the models. We made some changes to the following files to work with our dataset: 
+- The neutralizing-bias folder contains the code for the pre-trained model created by Pryzant et. al (2019). This repository was used to fine tune and run inference on the models. We made some changes to the following files to work with our dataset: 
     - harvest/gen_data_from_crawl.py 
     - harvest/add_tags.py 
     - src/shared/data.py
