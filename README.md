@@ -1,4 +1,4 @@
-# Sexist Language Neutralisation
+# Sexist Language Neutralisation (2022)
 
 This project is about using machine learning to automatically neutralise sexist language. This project builds upon the work by Pryzant et. al (2020), who created the first generative model to automatically neutralise subjective bias in textual data. This repository contains all of the code used in this project. We fine-tuned this model using the "Call Me Sexist" dataset (Samory et al., 2021), consisting of 2,405 sexist tweets and their neutralised pairs. For example, if we have the following sexist sentence: "women are more likely than men to act in silly ways", the model could neutralise this into "some individuals are more likely to act in silly ways". We used two new automatic evaluation methods for this model: sentence embeddings and the use of a sexism classification model. In addition, we propose an automated training data augmentation pipeline to improve our model further. For more detail on this project, please see the Report.pdf file. 
 
